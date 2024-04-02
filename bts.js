@@ -7,7 +7,7 @@ class Node {
     }
 }
 
-class Tree {
+class BTS {
     constructor() {
         this.root = null
         this.count = 0
@@ -78,4 +78,4 @@ class Tree {
     }
 }
 
-export default Tree
+export default BTS

@@ -10,7 +10,7 @@ tree.insert("mohamed")
 
 
 let r = tree.search('moha')
-console.log(tree.size());
+console.log(tree.min());
 // console.log(r.right);
 // console.log(r.right.right);
 // console.log(r.right.right.right);
